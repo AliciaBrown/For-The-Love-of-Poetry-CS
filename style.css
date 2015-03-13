@@ -3,3 +3,13 @@
 body {
 background-image:url('https://cloud.githubusercontent.com/assets/5033756/6646206/aa711868-c990-11e4-8197-cfb126429732.jpg');
 }
+
+Footer {
+display:block;
+position: fixed;
+bottom: 0;
+width: 100%;
+height: 100px;
+background-color: Black;
+opacity:0.9;
+}
