@@ -1,3 +1,5 @@
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
 
-background-image:url('https://cloud.githubusercontent.com/assets/5033756/6646206/aa711868-c990-11e4-8197-cfb126429732.jpg')
+body {
+background-image:url('https://cloud.githubusercontent.com/assets/5033756/6646206/aa711868-c990-11e4-8197-cfb126429732.jpg');
+}
